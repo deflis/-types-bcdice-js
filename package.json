@@ -1,0 +1,6 @@
+{
+  "name": "@types/bcdice-js",
+  "version": "1.0.0",
+  "types": "./bcdice.d.ts",
+  "license": "MIT"
+}
